@@ -29,6 +29,7 @@ Běhové chyby (detekce): 100%
 Interpretace instrukcí: 95%
 
 Interpretace programů: 38%
+
 Rozšíření FLOAT 95%
 
 Rozšíření STACK 84%
